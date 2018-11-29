@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<upload xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-19 07:30:03</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-19 07:30:04</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-19 07:30:05</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-19 07:30:06</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-19 07:30:07</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-19 07:30:08</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-19 07:30:09</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-19 07:30:10</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-19 07:30:11</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-19 07:30:12</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-19 07:30:13</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-19 16:30:14</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-19 16:30:15</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-19 16:30:16</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-19 16:30:17</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-19 16:30:18</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-19 16:30:19</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-19 16:30:20</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-19 16:30:21</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-19 16:30:22</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-19 16:30:23</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-19 16:30:24</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-20 16:00:11</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-20 16:00:12</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-20 16:00:13</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-20 16:00:14</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-20 16:00:15</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-20 16:00:16</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-20 16:00:17</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-20 16:00:18</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-20 16:00:19</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-20 16:00:20</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-20 07:00:21</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-20 07:00:22</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-20 07:00:23</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-20 07:00:24</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-20 07:00:25</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-20 07:00:26</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-20 07:00:27</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-20 07:00:28</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-20 07:00:29</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-20 07:00:30</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-20 07:00:31</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-20 07:00:32</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-21 07:00:22</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-21 07:00:23</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-21 07:00:24</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-21 07:00:25</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-21 07:00:26</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-21 07:00:27</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-21 07:00:28</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-21 07:00:29</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-21 07:00:30</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-21 07:00:31</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-21 07:00:32</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-21 15:00:22</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-21 15:00:23</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-21 15:00:24</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-21 15:00:25</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-21 15:00:26</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-21 15:00:27</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-21 15:00:28</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-21 15:00:29</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-21 15:00:30</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-21 15:00:31</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-21 15:00:32</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-22 15:30:22</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-22 15:30:23</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-22 15:30:24</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-22 15:30:25</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-22 15:30:26</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-22 15:30:27</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-22 15:30:28</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-22 15:30:29</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-22 15:30:30</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-22 15:30:31</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-22 15:30:32</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-22 07:30:22</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-22 07:30:23</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-22 07:30:24</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-22 07:30:25</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-22 07:30:26</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-22 07:30:27</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-22 07:30:28</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-22 07:30:29</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-22 07:30:30</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-22 07:30:31</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-22 07:30:32</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-23 07:30:22</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-23 07:30:23</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-23 07:30:24</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-23 07:30:25</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-23 07:30:26</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-23 07:30:27</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-23 07:30:28</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-23 07:30:29</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-23 07:30:30</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-23 07:30:31</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-23 07:30:32</scan_date>
+		<verifymode>0</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>1</pin>
+		<scan_date>2018-05-23 16:30:22</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>2</pin>
+		<scan_date>2018-05-23 16:30:23</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>3</pin>
+		<scan_date>2018-05-23 16:30:24</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>4</pin>
+		<scan_date>2018-05-23 16:30:25</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>5</pin>
+		<scan_date>2018-05-23 16:30:26</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>1</sn>
+		<pin>6</pin>
+		<scan_date>2018-05-23 16:30:27</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>7</pin>
+		<scan_date>2018-05-23 16:30:28</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>3</sn>
+		<pin>8</pin>
+		<scan_date>2018-05-23 16:30:29</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>4</sn>
+		<pin>9</pin>
+		<scan_date>2018-05-23 16:30:30</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>5</sn>
+		<pin>10</pin>
+		<scan_date>2018-05-23 16:30:31</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+	<att_log>
+		<sn>2</sn>
+		<pin>11</pin>
+		<scan_date>2018-05-23 16:30:32</scan_date>
+		<verifymode>1</verifymode>
+	</att_log>
+</upload>
