@@ -1,2 +1,5 @@
 # web_simab
-Sistem Informasi Monitoring Absensi ~ CodeIgniter 3
+Sistem Informasi Monitoring Absensi
+
+Template Carbon Master
+Framework CodeIgniter 3
